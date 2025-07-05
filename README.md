@@ -2,7 +2,7 @@
 
 Tool for calculating the voltage divider and selecting resistor values from the E24 series
 
-
+![screen](https://raw.githubusercontent.com/c-not-around/u-div/7fbe55ff91024f2ecbfdc0aa3369e1b888bd8281/screen.png)
 
 ## Usage
 
